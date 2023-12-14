@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welives)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 66.2 kB Used in GitHub's Storage 
- > 
-> 🏆 450 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,5 +95,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/welives/welives/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2023 18:35:37 UTC
+ Last Updated on 14/12/2023 18:36:43 UTC
 <!--END_SECTION:waka-->
