@@ -61,18 +61,16 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Vue.js                   2 mins              ███████████████████████░░   92.00 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vite-starter             3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +90,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/welives/welives/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2023 18:34:45 UTC
+ Last Updated on 24/12/2023 18:35:01 UTC
 <!--END_SECTION:waka-->
