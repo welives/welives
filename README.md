@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦 66.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -61,17 +59,16 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TSConfig                 6 mins              █████████████░░░░░░░░░░░░   50.69 % 
-JavaScript               6 mins              ████████████░░░░░░░░░░░░░   49.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-code-preview             12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +88,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/welives/welives/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 18:35:56 UTC
+ Last Updated on 04/01/2024 18:36:21 UTC
 <!--END_SECTION:waka-->
