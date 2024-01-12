@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welives)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,16 +61,18 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     4 hrs 6 mins        █████████████████████████   99.09 % 
+Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vite-starter             4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,5 +92,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/welives/welives/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2024 18:35:55 UTC
+ Last Updated on 12/01/2024 18:36:23 UTC
 <!--END_SECTION:waka-->
