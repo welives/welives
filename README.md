@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welives)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,18 +61,19 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     4 hrs 6 mins        █████████████████████████   99.09 % 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JSON                     5 hrs 46 mins       █████████████████████████   99.35 % 
+Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vite-starter             4 hrs 9 mins        █████████████████████████   100.00 % 
+vite-starter             5 hrs 45 mins       █████████████████████████   99.00 % 
+ouchn                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +93,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/welives/welives/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2024 18:36:23 UTC
+ Last Updated on 13/01/2024 18:35:03 UTC
 <!--END_SECTION:waka-->
